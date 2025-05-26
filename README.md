@@ -10,7 +10,7 @@ A simple ping pong game built with vanilla JavaScript, HTML, and CSS.
 
 ## Live Demo
 
-You can play the game online at: [https://cyx977.github.io/ping-pong-game](https://cyx977.github.io/ping-pong-game)
+You can play the game online :[Here](https://cyx977.github.io/genpingpong/)
 
 ## Features
 
