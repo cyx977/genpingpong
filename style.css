@@ -30,6 +30,7 @@ body {
     width: 10px;
     height: 80px;
     background-color: #fff;
+    transition: background-color 0.3s ease;
 }
 
 #paddle1 {
@@ -40,6 +41,10 @@ body {
     right: 10px;
 }
 
+.active-paddle {
+    background-color: #00ff00;
+}
+
 #score {
     position: absolute;
     top: 10px;
@@ -48,4 +53,26 @@ body {
     color: #fff;
     font-family: Arial, sans-serif;
     font-size: 24px;
+}
+
+#instructions {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.player-controls {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.player {
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.1);
 }

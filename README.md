@@ -10,7 +10,7 @@ A simple ping pong game built with vanilla JavaScript, HTML, and CSS.
 
 ## Live Demo
 
-You can play the game online at: [https://YOUR-USERNAME.github.io/ping-pong-game](https://YOUR-USERNAME.github.io/ping-pong-game)
+You can play the game online at: [https://cyx977.github.io/ping-pong-game](https://cyx977.github.io/ping-pong-game)
 
 ## Features
 
@@ -51,6 +51,8 @@ To set up:
 - `game.js` - Game logic
 - `blog.md` - Blog post about the implementation
 - `image.png` - Game screenshot
+- `game.png` - Game interface screenshot
+- `copy.png` - Code structure screenshot
 - `.github/workflows/deploy.yml` - GitHub Actions workflow for deployment
 
 ## Development Process
