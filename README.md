@@ -18,6 +18,9 @@ You can play the game online :[Here](https://cyx977.github.io/genpingpong/)
 - Real-time paddle movement
 - Ball physics with collision detection
 - Score tracking
+- Power-ups system:
+  - Split Ball: Creates two additional balls when collected
+  - Speed Boost: Temporarily increases ball speed
 - Responsive design
 - No external libraries or dependencies
 

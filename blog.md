@@ -100,7 +100,7 @@ The game checks for collisions between:
 
 ## Learning Outcomes
 
-Building this game teaches several important programming concepts:
+Building this gameg teaches several important programming concepts:
 - Game loop implementation
 - State management
 - Event handling
